@@ -160,9 +160,8 @@ git clone https://github.com/yourusername/delhivery-feature-engineering.git
 ---
 
 ## Author
+Ayush Saini
 
-**Your Name**
-Data Science Student
 [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
 
 ---
